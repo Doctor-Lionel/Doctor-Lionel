@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doctor-Lionel
 - 👀 I’m interested in reading and also human anatomy
--     Proficient in JavaScript, Java, Python as well as html/css
+- 👀 Proficient in JavaScript, Java, Python as well as html/css
 - 🌱 I’m currently learning Dart and Rust
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Reach me at bonaventureismymiddlename@gmail.com
